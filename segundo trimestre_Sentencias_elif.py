@@ -94,7 +94,7 @@
 
 #10. Dado un numero, verifica si es divisible entre dos numeros dados.
 # numero=int(input("Ingresa un numero "))
-# if numero % 2 == 0:
+# if 0998:
 #     print("El numero SI es divisible entre dos")
 # else:
 #     print("El numero NO es divisible entre dos")
